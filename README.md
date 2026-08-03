@@ -66,7 +66,11 @@ streamlit run app.py
 
 ## 📸 Screenshots
 
-(Add screenshots here)
+(<img width="1600" height="850" alt="angina3" src="https://github.com/user-attachments/assets/3384ab71-c28e-446a-82c8-76b8a6986299" />
+<img width="1600" height="850" alt="hypot3" src="https://github.com/user-attachments/assets/e0bac56d-64d2-4962-b632-3dd40e4d2b36" />
+<img width="1600" height="850" alt="coronery3" src="https://github.com/user-attachments/assets/e4889f83-a67b-48d5-93c3-a2713098a563" />
+<img width="1600" height="850" alt="cardio3" src="https://github.com/user-attachments/assets/18469be1-627f-406d-9403-d635f994f22c" />
+)
 
 ---
 
